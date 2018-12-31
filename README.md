@@ -24,19 +24,19 @@ Speed dating is defined as “an event at which each participant converses indiv
 
 - Overview of the location of participants
 
-!(/image/map.png)
+![](/image/map.png)
 
 - Difference between age versus number of match
 
-!(/image/age.png)
+![](/image/age.png)
 
 - Popular Hobbies
 
-!(/image/imp.png)
+![](/image/imp.png)
 
 - For more anaylsis (Check out Shiny app)
 
-!(/image/shiny.png)
+![](/image/shiny.png)
 
 ## Conclusion
 
