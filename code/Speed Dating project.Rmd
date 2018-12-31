@@ -1,6 +1,6 @@
 ---
-title: "STAT 385 Project"
-author: "JW Stat 443"
+title: "Speed Dating Project"
+author: "Jason Washam"
 date: "11/7/2017"
 output: html_document
 ---
